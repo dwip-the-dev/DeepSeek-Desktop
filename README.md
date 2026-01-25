@@ -168,9 +168,9 @@ By default, the titlebar **matches your Windows theme** automatically 🌙☀️
             </td>
             <td align="center">
                 <a href="https://github.com/notlousybook">
-                    <img src="https://avatars.githubusercontent.com/u/197344995?v=4" width="100;" alt="LousyBook94"/>
+                    <img src="https://avatars.githubusercontent.com/u/197344995?v=4" width="100;" alt="notlousybook"/>
                     <br />
-                    <sub><b>LousyBook 01</b></sub>
+                    <sub><b>▷『 løµsʏ₿◌□₭ ▯↿ 』◀    (^◕.◕^)</b></sub>
                 </a>
             </td>
             <td align="center">
