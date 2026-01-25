@@ -12,7 +12,7 @@
 
 > Versions less than 0.1.69 have a horrendously buggy updator and is non gui based, please update if you're on older versions.
 
-> Bugs or suggestions? Drop them in [issues](https://github.com/LousyBook94/DeepSeek-Desktop/issues) 💀🔥
+> Bugs or suggestions? Drop them in [issues](https://github.com/notlousybook/DeepSeek-Desktop/issues) 💀🔥
 
 ![DeepSeek Desktop Preview](assets/preview.png)
 
@@ -34,7 +34,7 @@
 
 ## 💾 Installation
 
-1. Head to the [Releases page](https://github.com/LousyBook94/DeepSeek-Desktop/releases)
+1. Head to the [Releases page](https://github.com/notlousybook/DeepSeek-Desktop/releases)
 2. Download `DeepSeekChat-windows.zip`
 3. Extract the files
 4. Run `DeepSeekChat.exe`
@@ -148,8 +148,8 @@ By default, the titlebar **matches your Windows theme** automatically 🌙☀️
 
 ## 👋 Connect with Me
 
-* [YouTube](https://youtube.com/@LousyBook01)
-* [GitHub](https://github.com/LousyBook94)
+* [YouTube](https://www.youtube.com/channel/UCBNE8MNvq1XppUmpAs20m4w)
+* [GitHub](https://github.com/notlousybook)
 
 ---
 
@@ -167,7 +167,7 @@ By default, the titlebar **matches your Windows theme** automatically 🌙☀️
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/LousyBook94">
+                <a href="https://github.com/notlousybook">
                     <img src="https://avatars.githubusercontent.com/u/197344995?v=4" width="100;" alt="LousyBook94"/>
                     <br />
                     <sub><b>LousyBook 01</b></sub>
